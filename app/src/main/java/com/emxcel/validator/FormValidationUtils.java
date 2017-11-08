@@ -192,6 +192,9 @@ public class FormValidationUtils {
                         if (methodName.trim().equals("mobileNumber")) {
                             mobileNumber(edttyp, i);
                         }
+                        if (methodName.trim().equals("securePassword")) {
+                            securePassword(edttyp, i);
+                        }
 
 
                         String[] numb = methodName.replace("]", "").split("\\[");
@@ -530,6 +533,47 @@ public class FormValidationUtils {
 
     }
 
+    // validation for proper number between min-value and max-value
+    public boolean securePassword(EditText edtField, int iErrorIndex) {
+
+        String sField, sFieldValue, sErrorMessage;
+        sField = String.valueOf(edtField.getId());
+
+        DisplayLog("run validSignNumber ", "sField :: " + sField);
+        HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
+
+        sFieldValue = (String) hmKeys.get("fieldValue");
+        String[] serrors = (String[]) hmKeys.get("errors");
+
+        if (required(edtField, iErrorIndex)) {
+            return true;
+        } else if (sFieldValue.length() < 8) {
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+
+            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            hmErrorKeys.put("label", (String) hmKeys.get("label"));
+            hmErrorKeys.put("errorsStatus", true);
+            hmErrorKeys.put("error", "Your password must be at least 8 characters long");
+            this.arrErrorList.add(hmErrorKeys);
+
+            return false;
+
+        } else if (!sFieldValue.matches("^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%^&+=])(?=\\S+$).{4,}$")) {
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+
+            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            hmErrorKeys.put("label", (String) hmKeys.get("label"));
+            hmErrorKeys.put("errorsStatus", true);
+            hmErrorKeys.put("error", "Please Enter Password Including 1 Uppercase and 1 Special character and 1 Number must be there, Like : \"'Example@123'\"");
+            this.arrErrorList.add(hmErrorKeys);
+
+            return false;
+        }
+
+        return true;
+
+    }
+
 
     private HashMap<String, Object> detDefaultError(EditText edtField) {
 
@@ -561,7 +605,7 @@ public class FormValidationUtils {
         boolean bReturnStatus = true;
         if (this.arrErrorList != null && this.arrErrorList.size() > 0) {
             for (int i = 0; i < this.arrErrorList.size(); i++) {
-                DisplayLog("bReturnStatus ", "*****\n* bReturnStatus :: " + bReturnStatus+" * \n ******");
+                DisplayLog("bReturnStatus ", "*****\n* bReturnStatus :: " + bReturnStatus + " * \n ******");
                 if (bReturnStatus) {
                     bReturnStatus = false;
                 }
