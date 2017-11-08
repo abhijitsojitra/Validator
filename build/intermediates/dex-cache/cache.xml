@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/emxcel/Abhijit/AndroidProjects/Validator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed3e40fe676e64b771d11c74c4c5698ca7f1a7f5">
+        <dex dex="/home/emxcel/Abhijit/AndroidProjects/Validator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b98411510f14335d6ad22605ae1e4c46ccb41d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/emxcel/Abhijit/AndroidProjects/Validator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/emxcel/Abhijit/AndroidProjects/Validator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6d4acf41caca028514ef214085342f9c3ca5ed27/classes.dex" />
+    </item>
+
+</items>

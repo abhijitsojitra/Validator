@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
 
-                Form_validation_utils fvu = new Form_validation_utils(MainActivity.this);
+                FormValidationUtils fvu = new FormValidationUtils(MainActivity.this);
 //                fvu.set_rules(edtName, "Name", "required|max_length[12]", new String[]{"your field is required"}, "toast");
 //                fvu.set_rules(edtName, "Name", "required|emailCheck", new String[]{"your field is required"}, "toast");
                 fvu.set_rules(edtName, "Name", "required|emailCheck", new String[]{"your field 1234156 is required"}, "seterror");
