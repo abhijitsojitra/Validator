@@ -4,12 +4,18 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Spinner;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
     EditText edtName, edtNumber;
+    Spinner spinner;
     Button btnSubmit;
 
     @Override
@@ -20,6 +26,16 @@ public class MainActivity extends AppCompatActivity {
         edtName = (EditText) findViewById(R.id.edtName);
         edtNumber = (EditText) findViewById(R.id.edtNumber);
         btnSubmit = (Button) findViewById(R.id.btnSubmit);
+        spinner = (Spinner) findViewById(R.id.spinner);
+
+        List<String> list = new ArrayList<String>();
+        list.add("");
+        list.add("list 2");
+        list.add("list 3");
+        ArrayAdapter<String> dataAdapter = new ArrayAdapter<String>(this,
+                android.R.layout.simple_spinner_item, list);
+        dataAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        spinner.setAdapter(dataAdapter);
 
         btnSubmit.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -37,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
                 FormValidationUtils fvu = new FormValidationUtils(MainActivity.this);
 //                fvu.set_rules(edtName, "Name", "required|max_length[12]", new String[]{"your field is required"}, "toast");
 //                fvu.set_rules(edtName, "Name", "required|emailCheck", new String[]{"your field is required"}, "toast");
+                fvu.set_rules(spinner, "spinner", "required", new String[]{"your field 1234156 is required"}, "seterror");
                 fvu.set_rules(edtName, "Name", "required|emailCheck", new String[]{"your field 1234156 is required"}, "seterror");
                 fvu.set_rules(edtNumber, "edtNumber", "securePassword", new String[]{"your field  sdfs  is required"}, "seterror");
                 if(fvu.run()){

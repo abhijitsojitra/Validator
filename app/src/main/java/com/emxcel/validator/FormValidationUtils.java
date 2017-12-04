@@ -9,6 +9,8 @@ import android.text.Html;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.Spinner;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
@@ -105,7 +107,7 @@ public class FormValidationUtils {
     /**
      * Function to display simple Alert Dialog
      *
-     * @param edtField          - object of EditText
+     * @param viewField         - object of View
      * @param slabe             - EditText labe
      * @param sRule             - validation rule like {required,emailCheck,validName,validText,validPersonName,validSignNumber,min_length[10],max_length[10],between_length[5,10],mobileNumber}
      * @param arrError          - array of error message
@@ -113,10 +115,22 @@ public class FormValidationUtils {
      *                          don't want icon
      */
 
-    public void set_rules(EditText edtField, String slabe, String sRule, String[] arrError, String sErrorDisplayType) {
+    public void set_rules(View viewField, String slabe, String sRule, String[] arrError, String sErrorDisplayType) {
 
-        if (edtField == null || edtField.equals("")) {
+        EditText edtField = null;
+        Spinner spinnerField = null;
+        String fieldValue = "";
+
+        if (viewField == null || viewField.equals("")) {
             return;
+        } else {
+            if (viewField instanceof EditText) {
+                edtField = (EditText) viewField;
+            }
+            if (viewField instanceof Spinner) {
+                spinnerField = (Spinner) viewField;
+            }
+
         }
 
         if (sRule == null || sRule.equals("")) {
@@ -124,17 +138,20 @@ public class FormValidationUtils {
         }
 
         if (slabe == null || slabe.equals("")) {
-            slabe = edtField.getHint().toString();
+            if (viewField instanceof EditText) {
+                slabe = edtField.getHint().toString();
+            }
         }
 
-        String sField = String.valueOf(edtField.getId());
+
+        String sField = String.valueOf(viewField.getId());
         String[] arrRule = sRule.split("\\|(?![^\\[]*\\])");
 
 
         HashMap<String, Object> hmKeys = new HashMap<>();
         hmKeys.put("field", sField);
-        hmKeys.put("edtfield", edtField);
-        hmKeys.put("fieldValue", edtField.getText().toString());
+        hmKeys.put("edtfield", viewField);
+        hmKeys.put("fieldValue", getFieldValue(viewField));
         hmKeys.put("label", slabe);
         hmKeys.put("rules", arrRule);
         hmKeys.put("errors", arrError);
@@ -167,33 +184,34 @@ public class FormValidationUtils {
                     for (int i = 0; i < rules.length; i++) {
                         DisplayLog("run rules[i] ", "" + rules[i]);
 
-                        EditText edttyp = (EditText) hmKeys.get("edtfield");
+//                        EditText edttyp = (EditText) hmKeys.get("edtfield");
+                        View viewtyp = (View) hmKeys.get("edtfield");
 
                         methodName = rules[i];
 
                         if (methodName.trim().equals("required")) {
-                            required(edttyp, i);
+                            required(viewtyp, i);
                         }
                         if (methodName.trim().equals("emailCheck")) {
-                            emailCheck(edttyp, i);
+                            emailCheck(viewtyp, i);
                         }
                         if (methodName.trim().equals("validName")) {
-                            validName(edttyp, i);
+                            validName(viewtyp, i);
                         }
                         if (methodName.trim().equals("validText")) {
-                            validText(edttyp, i);
+                            validText(viewtyp, i);
                         }
                         if (methodName.trim().equals("validPersonName")) {
-                            validPersonName(edttyp, i);
+                            validPersonName(viewtyp, i);
                         }
                         if (methodName.trim().equals("validSignNumber")) {
-                            validSignNumber(edttyp, i);
+                            validSignNumber(viewtyp, i);
                         }
                         if (methodName.trim().equals("mobileNumber")) {
-                            mobileNumber(edttyp, i);
+                            mobileNumber(viewtyp, i);
                         }
                         if (methodName.trim().equals("securePassword")) {
-                            securePassword(edttyp, i);
+                            securePassword(viewtyp, i);
                         }
 
 
@@ -201,14 +219,14 @@ public class FormValidationUtils {
                         methodName = numb[0];
                         if (methodName.trim().equals("min_length") || methodName.trim().equals("max_length") || methodName.trim().equals("between_length")) {
                             if (methodName.trim().equals("min_length")) {
-                                numberInBetween(edttyp, i, Integer.parseInt(numb[1]), 0);
+                                numberInBetween(viewtyp, i, Integer.parseInt(numb[1]), 0);
                             }
                             if (methodName.trim().equals("max_length")) {
-                                numberInBetween(edttyp, i, 0, Integer.parseInt(numb[1]));
+                                numberInBetween(viewtyp, i, 0, Integer.parseInt(numb[1]));
                             }
                             if (methodName.trim().equals("between_length")) {
                                 String[] betnum = numb[1].split("\\,");
-                                numberInBetween(edttyp, i, Integer.parseInt(betnum[0]), Integer.parseInt(betnum[1]));
+                                numberInBetween(viewtyp, i, Integer.parseInt(betnum[0]), Integer.parseInt(betnum[1]));
                             }
                         }
                         /*try {
@@ -233,9 +251,9 @@ public class FormValidationUtils {
                             Object obj = cls.newInstance();
 
 
-                            DisplayLog("run key,value ", edttyp.getHint() + "");
+                            DisplayLog("run key,value ", viewtyp.getHint() + "");
                             Method method = cls.getDeclaredMethod(rules[i], new Class[]{EditText.class, Integer.TYPE});
-                            if ((boolean) method.invoke(obj, new Object[]{edttyp, i})) {
+                            if ((boolean) method.invoke(obj, new Object[]{viewtyp, i})) {
                                 break;
                             }
                         } catch (SecurityException e) {
@@ -267,10 +285,10 @@ public class FormValidationUtils {
         return true;
     }
 
-    private boolean required(EditText edtField, int iErrorIndex) {
+    private boolean required(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
-        sField = String.valueOf(edtField.getId());
+        sField = String.valueOf(viewField.getId());
 
         DisplayLog("run required ", "sField :: " + sField);
         HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
@@ -281,7 +299,7 @@ public class FormValidationUtils {
         if (sFieldValue == null || sFieldValue.equals("")) {
             sErrorMessage = (serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Empty" : "Your value is Empty";
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", sErrorMessage);
@@ -291,10 +309,10 @@ public class FormValidationUtils {
         return false;
     }
 
-    private boolean emailCheck(EditText edtField, int iErrorIndex) {
+    private boolean emailCheck(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
-        sField = String.valueOf(edtField.getId());
+        sField = String.valueOf(viewField.getId());
 
         DisplayLog("run required ", "sField :: " + sField);
         HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
@@ -303,11 +321,10 @@ public class FormValidationUtils {
         String[] serrors = (String[]) hmKeys.get("errors");
 
 //        if (sFieldValue == null || sFieldValue.equals("")) {
-        if (!sFieldValue.trim().equalsIgnoreCase("") && !android.util.Patterns.EMAIL_ADDRESS.matcher(
-                edtField.getText().toString()).matches()) {
+        if (!sFieldValue.trim().equalsIgnoreCase("") && !android.util.Patterns.EMAIL_ADDRESS.matcher(sFieldValue).matches()) {
             sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Invalid Email Address";
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", sErrorMessage);
@@ -318,10 +335,10 @@ public class FormValidationUtils {
     }
 
     // validation for proper title between a-z and 0-9
-    public boolean validName(EditText edtField, int iErrorIndex) {
+    public boolean validName(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
-        sField = String.valueOf(edtField.getId());
+        sField = String.valueOf(viewField.getId());
 
         DisplayLog("run required ", "sField :: " + sField);
         HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
@@ -329,12 +346,12 @@ public class FormValidationUtils {
         sFieldValue = (String) hmKeys.get("fieldValue");
         String[] serrors = (String[]) hmKeys.get("errors");
 
-        if (required(edtField, iErrorIndex)) {
+        if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("^[a-zA-Z0-9 ]*$")) {
             sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Accept Alphabets And Numbers Only.");
@@ -349,10 +366,10 @@ public class FormValidationUtils {
     }
 
     // validation for proper title between a-z , 0-9, ., -,:,,
-    public boolean validText(EditText edtField, int iErrorIndex) {
+    public boolean validText(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
-        sField = String.valueOf(edtField.getId());
+        sField = String.valueOf(viewField.getId());
 
         DisplayLog("run required ", "sField :: " + sField);
         HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
@@ -360,12 +377,12 @@ public class FormValidationUtils {
         sFieldValue = (String) hmKeys.get("fieldValue");
         String[] serrors = (String[]) hmKeys.get("errors");
 
-        if (required(edtField, iErrorIndex)) {
+        if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("^[A-Za-z0-9\\\\s,\\\\.\\\\-\\\\:]*$")) {
             sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Some special character not allowed.");
@@ -380,10 +397,10 @@ public class FormValidationUtils {
     }
 
     // validation for proper name between a-z
-    public boolean validPersonName(EditText edtField, int iErrorIndex) {
+    public boolean validPersonName(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
-        sField = String.valueOf(edtField.getId());
+        sField = String.valueOf(viewField.getId());
 
         DisplayLog("run required ", "sField :: " + sField);
         HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
@@ -391,12 +408,12 @@ public class FormValidationUtils {
         sFieldValue = (String) hmKeys.get("fieldValue");
         String[] serrors = (String[]) hmKeys.get("errors");
 
-        if (required(edtField, iErrorIndex)) {
+        if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("[a-zA-Z ]+")) {
             sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Accept Alphabets Only.");
@@ -411,10 +428,10 @@ public class FormValidationUtils {
     }
 
     // validation for proper number between min-value and max-value
-    public boolean validSignNumber(EditText edtField, int iErrorIndex) {
+    public boolean validSignNumber(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
-        sField = String.valueOf(edtField.getId());
+        sField = String.valueOf(viewField.getId());
 
         DisplayLog("run validSignNumber ", "sField :: " + sField);
         HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
@@ -422,12 +439,12 @@ public class FormValidationUtils {
         sFieldValue = (String) hmKeys.get("fieldValue");
         String[] serrors = (String[]) hmKeys.get("errors");
 
-        if (required(edtField, iErrorIndex)) {
+        if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("^[0-9]*$")) {
             sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Accept Number Only.");
@@ -442,10 +459,10 @@ public class FormValidationUtils {
     }
 
     // validation for proper number between min-value and max-value
-    public boolean numberInBetween(EditText edtField, int iErrorIndex, int MinLen, int MaxLen) {
+    public boolean numberInBetween(View viewField, int iErrorIndex, int MinLen, int MaxLen) {
 
         String sField, sFieldValue, sErrorMessage;
-        sField = String.valueOf(edtField.getId());
+        sField = String.valueOf(viewField.getId());
 
         DisplayLog("run validSignNumber ", "sField :: " + sField);
         HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
@@ -453,11 +470,11 @@ public class FormValidationUtils {
         sFieldValue = (String) hmKeys.get("fieldValue");
         String[] serrors = (String[]) hmKeys.get("errors");
 
-        if (required(edtField, iErrorIndex)) {
+        if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("^[0-9]*$")) {
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Accept Number Only.");
@@ -467,7 +484,7 @@ public class FormValidationUtils {
 
         } else if (sFieldValue.toString().length() < MinLen) {
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Minimum length " + MinLen);
@@ -477,7 +494,7 @@ public class FormValidationUtils {
 
         } else if (MaxLen > 0 && sFieldValue.toString().length() > MaxLen) {
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Maximum length " + MaxLen);
@@ -492,10 +509,10 @@ public class FormValidationUtils {
     }
 
     // validation for proper number between min-value and max-value
-    public boolean mobileNumber(EditText edtField, int iErrorIndex) {
+    public boolean mobileNumber(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
-        sField = String.valueOf(edtField.getId());
+        sField = String.valueOf(viewField.getId());
 
         DisplayLog("run validSignNumber ", "sField :: " + sField);
         HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
@@ -503,12 +520,12 @@ public class FormValidationUtils {
         sFieldValue = (String) hmKeys.get("fieldValue");
         String[] serrors = (String[]) hmKeys.get("errors");
 
-        if (required(edtField, iErrorIndex)) {
+        if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("^[0-9]*$")) {
             sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Accept Number Only.");
@@ -519,7 +536,7 @@ public class FormValidationUtils {
         } else if (!sFieldValue.matches("\\d{10}")) {
             sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Please enter proper number.");
@@ -534,10 +551,10 @@ public class FormValidationUtils {
     }
 
     // validation for proper number between min-value and max-value
-    public boolean securePassword(EditText edtField, int iErrorIndex) {
+    public boolean securePassword(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
-        sField = String.valueOf(edtField.getId());
+        sField = String.valueOf(viewField.getId());
 
         DisplayLog("run validSignNumber ", "sField :: " + sField);
         HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
@@ -545,12 +562,12 @@ public class FormValidationUtils {
         sFieldValue = (String) hmKeys.get("fieldValue");
         String[] serrors = (String[]) hmKeys.get("errors");
 
-        if (required(edtField, iErrorIndex)) {
+        if (required(viewField, iErrorIndex)) {
             return true;
         } else if (sFieldValue.length() < 8) {
             sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Your password must be at least 8 characters long");
@@ -561,7 +578,7 @@ public class FormValidationUtils {
         } else if (!sFieldValue.matches("^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%^&+=])(?=\\S+$).{4,}$")) {
             sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
 
-            HashMap<String, Object> hmErrorKeys = detDefaultError(edtField);
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Please Enter Password Including 1 Uppercase and 1 Special character and 1 Number must be there, Like : \"'Example@123'\"");
@@ -575,9 +592,10 @@ public class FormValidationUtils {
     }
 
 
-    private HashMap<String, Object> detDefaultError(EditText edtField) {
+    private HashMap<String, Object> detDefaultError(View viewField) {
 
-        String sField = String.valueOf(edtField.getId());
+        String sField = String.valueOf(viewField.getId());
+
 
         DisplayLog("run detDefaultError ", "sField :: " + sField);
         HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
@@ -585,9 +603,9 @@ public class FormValidationUtils {
         DisplayLog("run detDefaultError ", "sErrorDisplayType :: " + (String) hmKeys.get("sErrorDisplayType"));
 
         HashMap<String, Object> hmErrorKeys = new HashMap<>();
-        hmErrorKeys.put("field", (EditText) edtField);
+        hmErrorKeys.put("field", (View) viewField);
         hmErrorKeys.put("fieldId", sField);
-        hmErrorKeys.put("fieldValue", edtField.getText().toString());
+        hmErrorKeys.put("fieldValue", getFieldValue(viewField));
         hmErrorKeys.put("label", (String) hmKeys.get("label"));
         hmErrorKeys.put("errorsStatus", false);
         hmErrorKeys.put("errorDisplayType", (String) hmKeys.get("sErrorDisplayType"));
@@ -596,6 +614,37 @@ public class FormValidationUtils {
 //        this.arrErrorList.add(hmErrorKeys);
 
         return hmErrorKeys;
+    }
+
+    private String getFieldValue(View viewField) {
+        EditText edtField = null;
+        Spinner spinnerField = null;
+        String fieldValue = "";
+
+
+        if (viewField instanceof EditText) {
+            edtField = (EditText) viewField;
+            fieldValue = edtField.getText().toString();
+        }
+        if (viewField instanceof Spinner) {
+            spinnerField = (Spinner) viewField;
+            fieldValue = spinnerField.getSelectedItem().toString();
+        }
+        return fieldValue;
+    }
+
+    private void setViewError(View viewField, String errorMsg) {
+
+        if (viewField instanceof EditText) {
+            ((EditText) viewField).setError(errorMsg);
+        }
+        if (viewField instanceof Spinner) {
+            try {
+                ((TextView) ((Spinner) viewField).getSelectedView()).setError(errorMsg);
+            } catch (Exception e) {
+                showToast(_c, errorMsg);
+            }
+        }
     }
 
     private boolean setDisplayError() {
@@ -612,7 +661,7 @@ public class FormValidationUtils {
                 HashMap<String, Object> hmKeys = this.arrErrorList.get(i);
                 sErrorDisplayType = (String) hmKeys.get("errorDisplayType");
 //                sErrorMessage = (String) hmKeys.get("error");
-                field = (EditText) hmKeys.get("field");
+//                field = (EditText) hmKeys.get("field");
                 DisplayLog("run setDisplayError ", "sErrorDisplayType :: " + sErrorDisplayType);
                 if (sErrorDisplayType != null) {
                     if (sErrorDisplayType.equals("toast")) {
@@ -620,12 +669,12 @@ public class FormValidationUtils {
                     } else if (sErrorDisplayType.equals("seterror")) {
 //                        showToast(_c, sErrorMessage);
                         sErrorMessage = ((sLastField.equals(hmKeys.get("error").toString())) ? "\n" : "") + hmKeys.get("error").toString();
-                        field.setError(sErrorMessage);
+//                        field.setError(sErrorMessage);
+                        setViewError((View) hmKeys.get("field"), sErrorMessage);
                     } else if (sErrorDisplayType.equals("alert")) {
 //                        showToast(_c, sErrorMessage);
                         sErrorMessage += hmKeys.get("error").toString() + ",\n";
 //                        sErrorMessage += sErrorMessage + "</br>";
-//                        field.setError(sErrorMessage);
                     }
                     sLastField = hmKeys.get("error").toString();
                 }

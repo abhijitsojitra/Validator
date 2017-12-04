@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/emxcel/Abhijit/AndroidProjects/Validator/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/emxcel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0de9cdbccb3a206f74d123235375d8a/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/emxcel/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/794a13d4c8b1030de8336f31cb0a553f/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}

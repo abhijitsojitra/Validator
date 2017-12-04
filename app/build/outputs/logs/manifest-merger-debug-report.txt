@@ -1,42 +1,75 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/794a13d4c8b1030de8336f31cb0a553f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0de9cdbccb3a206f74d123235375d8a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/emxcel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8dd380d34af9d96b19bb2bc1771bf05c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e9a6c189f55bec11a5bf73d626402c46/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/6dddbdb0db5a8bd31c7b80f886871d83/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d80f7a76fb8228aaebf4a6ba8129ddd6/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/dcb87f82a7ec351bdb6ee4310205cee4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/6393087ee9c17a4107941a5bfa964bb4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7fdcc2861ff5a33ee2df212229ea2c97/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5964f15c32d5fe92d75c1011206f5835/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5274486d2b633891b6dec205108fd7e5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/ffcc7fd1159a00e48e891bcc5fb4574e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3af2e8b3316315591f2e763ac3d7ffeb/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
 		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:3:5-35
 		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
 		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
+		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
+		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:2:1-21:12
 		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
-		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
 application
 ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.android/build-cache/7bd9fca383185be8fabdb3d643dda853cff6af23/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emxcel/.android/build-cache/c1042992ba470045d4ec7346fc8659ed3a419394/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emxcel/.android/build-cache/9c4a3f833426568656deb07fb6d664b3d361ec36/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emxcel/.android/build-cache/5fa2d40de6511573bdafe56014c2dd2ceb727100/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/emxcel/.android/build-cache/71c672fb80007186c3c2e30fcbeddc5420034385/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emxcel/.android/build-cache/c32a735e9ef0fbfa51e130eab8c250ef587f312f/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emxcel/.android/build-cache/b1680a7c4f2c37dac105409cdcdd26c7b46b5bf1/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emxcel/.android/build-cache/65409bfed733cbdba5707dd76fc5d526ba83ba4c/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emxcel/.android/build-cache/1cda86632a0c1f9d3de35b62f1fc62d493291431/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emxcel/.android/build-cache/78f324cbb408259828ba30c1a7640c2ca9836b51/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emxcel/.android/build-cache/c5e3e7d83e32eaf416dcb30ecc7f8fdd9f7b9f2d/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/emxcel/.android/build-cache/2309a50b5a0a2ff6bafa4f9309879e8dc1f53e87/output/AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:8:9-41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/794a13d4c8b1030de8336f31cb0a553f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/794a13d4c8b1030de8336f31cb0a553f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0de9cdbccb3a206f74d123235375d8a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0de9cdbccb3a206f74d123235375d8a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/emxcel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8dd380d34af9d96b19bb2bc1771bf05c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/emxcel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8dd380d34af9d96b19bb2bc1771bf05c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e9a6c189f55bec11a5bf73d626402c46/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e9a6c189f55bec11a5bf73d626402c46/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/6dddbdb0db5a8bd31c7b80f886871d83/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/6dddbdb0db5a8bd31c7b80f886871d83/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/dcb87f82a7ec351bdb6ee4310205cee4/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/dcb87f82a7ec351bdb6ee4310205cee4/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/6393087ee9c17a4107941a5bfa964bb4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/6393087ee9c17a4107941a5bfa964bb4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7fdcc2861ff5a33ee2df212229ea2c97/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7fdcc2861ff5a33ee2df212229ea2c97/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5964f15c32d5fe92d75c1011206f5835/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5964f15c32d5fe92d75c1011206f5835/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5274486d2b633891b6dec205108fd7e5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5274486d2b633891b6dec205108fd7e5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/ffcc7fd1159a00e48e891bcc5fb4574e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/ffcc7fd1159a00e48e891bcc5fb4574e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3af2e8b3316315591f2e763ac3d7ffeb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3af2e8b3316315591f2e763ac3d7ffeb/AndroidManifest.xml:29:5-20
 	android:supportsRtl
 		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
 		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:9:9-54
-	android:allowBackup
-		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
 		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.emxcel.validator.MainActivity
@@ -55,41 +88,71 @@ ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidMa
 		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.android/build-cache/7bd9fca383185be8fabdb3d643dda853cff6af23/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emxcel/.android/build-cache/c1042992ba470045d4ec7346fc8659ed3a419394/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emxcel/.android/build-cache/9c4a3f833426568656deb07fb6d664b3d361ec36/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emxcel/.android/build-cache/5fa2d40de6511573bdafe56014c2dd2ceb727100/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/emxcel/.android/build-cache/c05f36f819bbdaa4db977e9e0a5d57ea0099d4b7/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/emxcel/.android/build-cache/71c672fb80007186c3c2e30fcbeddc5420034385/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emxcel/.android/build-cache/c32a735e9ef0fbfa51e130eab8c250ef587f312f/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emxcel/.android/build-cache/b1680a7c4f2c37dac105409cdcdd26c7b46b5bf1/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emxcel/.android/build-cache/65409bfed733cbdba5707dd76fc5d526ba83ba4c/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emxcel/.android/build-cache/1cda86632a0c1f9d3de35b62f1fc62d493291431/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emxcel/.android/build-cache/78f324cbb408259828ba30c1a7640c2ca9836b51/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emxcel/.android/build-cache/c5e3e7d83e32eaf416dcb30ecc7f8fdd9f7b9f2d/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/emxcel/.android/build-cache/2309a50b5a0a2ff6bafa4f9309879e8dc1f53e87/output/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
+INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/794a13d4c8b1030de8336f31cb0a553f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/794a13d4c8b1030de8336f31cb0a553f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0de9cdbccb3a206f74d123235375d8a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0de9cdbccb3a206f74d123235375d8a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/emxcel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8dd380d34af9d96b19bb2bc1771bf05c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/emxcel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8dd380d34af9d96b19bb2bc1771bf05c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e9a6c189f55bec11a5bf73d626402c46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e9a6c189f55bec11a5bf73d626402c46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/6dddbdb0db5a8bd31c7b80f886871d83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/6dddbdb0db5a8bd31c7b80f886871d83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d80f7a76fb8228aaebf4a6ba8129ddd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d80f7a76fb8228aaebf4a6ba8129ddd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/dcb87f82a7ec351bdb6ee4310205cee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/dcb87f82a7ec351bdb6ee4310205cee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/6393087ee9c17a4107941a5bfa964bb4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/6393087ee9c17a4107941a5bfa964bb4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7fdcc2861ff5a33ee2df212229ea2c97/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7fdcc2861ff5a33ee2df212229ea2c97/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5964f15c32d5fe92d75c1011206f5835/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5964f15c32d5fe92d75c1011206f5835/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5274486d2b633891b6dec205108fd7e5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5274486d2b633891b6dec205108fd7e5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/ffcc7fd1159a00e48e891bcc5fb4574e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/ffcc7fd1159a00e48e891bcc5fb4574e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3af2e8b3316315591f2e763ac3d7ffeb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3af2e8b3316315591f2e763ac3d7ffeb/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
+INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.android/build-cache/7bd9fca383185be8fabdb3d643dda853cff6af23/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/794a13d4c8b1030de8336f31cb0a553f/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
+		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
 		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
+		ADDED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
 		INJECTED from /home/emxcel/Abhijit/AndroidProjects/Validator/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.android/build-cache/7bd9fca383185be8fabdb3d643dda853cff6af23/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emxcel/.android/build-cache/c1042992ba470045d4ec7346fc8659ed3a419394/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emxcel/.android/build-cache/9c4a3f833426568656deb07fb6d664b3d361ec36/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emxcel/.android/build-cache/5fa2d40de6511573bdafe56014c2dd2ceb727100/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/emxcel/.android/build-cache/c05f36f819bbdaa4db977e9e0a5d57ea0099d4b7/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] /home/emxcel/.android/build-cache/71c672fb80007186c3c2e30fcbeddc5420034385/output/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emxcel/.android/build-cache/c32a735e9ef0fbfa51e130eab8c250ef587f312f/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emxcel/.android/build-cache/b1680a7c4f2c37dac105409cdcdd26c7b46b5bf1/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emxcel/.android/build-cache/65409bfed733cbdba5707dd76fc5d526ba83ba4c/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emxcel/.android/build-cache/1cda86632a0c1f9d3de35b62f1fc62d493291431/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emxcel/.android/build-cache/78f324cbb408259828ba30c1a7640c2ca9836b51/output/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emxcel/.android/build-cache/c5e3e7d83e32eaf416dcb30ecc7f8fdd9f7b9f2d/output/AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/794a13d4c8b1030de8336f31cb0a553f/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0de9cdbccb3a206f74d123235375d8a/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0de9cdbccb3a206f74d123235375d8a/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e9a6c189f55bec11a5bf73d626402c46/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e9a6c189f55bec11a5bf73d626402c46/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/6dddbdb0db5a8bd31c7b80f886871d83/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/6dddbdb0db5a8bd31c7b80f886871d83/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d80f7a76fb8228aaebf4a6ba8129ddd6/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d80f7a76fb8228aaebf4a6ba8129ddd6/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/dcb87f82a7ec351bdb6ee4310205cee4/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/dcb87f82a7ec351bdb6ee4310205cee4/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/6393087ee9c17a4107941a5bfa964bb4/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/6393087ee9c17a4107941a5bfa964bb4/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7fdcc2861ff5a33ee2df212229ea2c97/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7fdcc2861ff5a33ee2df212229ea2c97/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5964f15c32d5fe92d75c1011206f5835/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/5964f15c32d5fe92d75c1011206f5835/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5274486d2b633891b6dec205108fd7e5/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/5274486d2b633891b6dec205108fd7e5/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/ffcc7fd1159a00e48e891bcc5fb4574e/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/ffcc7fd1159a00e48e891bcc5fb4574e/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3af2e8b3316315591f2e763ac3d7ffeb/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/3af2e8b3316315591f2e763ac3d7ffeb/AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.android/build-cache/7bd9fca383185be8fabdb3d643dda853cff6af23/output/AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/794a13d4c8b1030de8336f31cb0a553f/AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.android/build-cache/7bd9fca383185be8fabdb3d643dda853cff6af23/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/emxcel/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/794a13d4c8b1030de8336f31cb0a553f/AndroidManifest.xml:26:9-47
