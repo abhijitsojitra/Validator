@@ -11,176 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59f13443-c059-4285-91f8-81024f7b3216" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/MainActivity.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/constraint/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/transition/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/FormValidationUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/emxcel/validator/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/zip-cache/6kH+Llro0IpInStqmFVjZIVUsRU=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/zip-cache/6kH+Llro0IpInStqmFVjZIVUsRU=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/zip-cache/6kH+Llro0IpInStqmFVjZIVUsRU=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/zip-cache/6kH+Llro0IpInStqmFVjZIVUsRU=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/transition/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/85/android/support/transition/R$id.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/android/support/v7/recyclerview/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/android/support/v7/recyclerview/R$id.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/89/android/support/v7/appcompat/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/89/android/support/v7/appcompat/R$id.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/android/support/constraint/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/android/support/constraint/R$id.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$1.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$2.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils$AlertDialogManager.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/FormValidationUtils.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/MainActivity$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/MainActivity$1.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/MainActivity.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/MainActivity.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$id.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$integer.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$integer.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$layout.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$mipmap.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$mipmap.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$string.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$style.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$style.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$styleable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/91/com/emxcel/validator/R$styleable.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/design/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/92/android/support/design/R$id.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/constraint/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/transition/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/FormValidationUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/emxcel/validator/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/transition/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/1/android/support/v7/recyclerview/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/android/support/constraint/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/FormValidationUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/emxcel/validator/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/constraint/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/constraint/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/transition/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/transition/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/emxcel/validator/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/emxcel/validator/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -212,11 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FormValidationUtils.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FormValidationUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="695" column="15" lean-forward="false" selection-start-line="690" selection-start-column="12" selection-end-line="695" selection-end-column="15" />
+            <state relative-caret-position="144">
+              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
               <folding>
                 <element signature="method#showSnackbar#0;class#FormValidationUtils#0" expanded="false" />
                 <element signature="method#showSnackbarWithAction#0;class#FormValidationUtils#0" expanded="false" />
@@ -232,10 +64,10 @@
                 <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
                 <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
                 <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="e#27367#27561#0" expanded="true" />
-                <element signature="e#27560#27561#0" expanded="true" />
-                <element signature="e#27728#27919#0" expanded="true" />
-                <element signature="e#27918#27919#0" expanded="true" />
+                <element signature="e#27404#27598#0" expanded="true" />
+                <element signature="e#27597#27598#0" expanded="true" />
+                <element signature="e#27765#27956#0" expanded="true" />
+                <element signature="e#27955#27956#0" expanded="true" />
                 <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
               </folding>
             </state>
@@ -245,8 +77,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="70" column="113" lean-forward="false" selection-start-line="70" selection-start-column="113" selection-end-line="70" selection-end-column="113" />
+            <state relative-caret-position="123">
+              <caret line="55" column="45" lean-forward="false" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
               <folding>
                 <element signature="e#1285#1293#0" expanded="true" />
                 <element signature="e#1434#1442#0" expanded="true" />
@@ -257,11 +89,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="11" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="90" column="33" lean-forward="false" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="33" />
+            <state relative-caret-position="144">
+              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -2090,58 +1932,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Validator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Validator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Validator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Validator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="validator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -2305,7 +2095,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512477705733" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512480275448" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2352,7 +2142,7 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512477705733" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512480275448" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2384,6 +2174,27 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -2513,7 +2324,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512477705735" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1512480275449" />
       </method>
     </configuration>
     <list size="1">
@@ -2584,31 +2395,31 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5043712" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44784424" sideWeight="0.49721116" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.49562877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38108483" sideWeight="0.5036987" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952252" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38108483" sideWeight="0.49630126" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.49764627" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44784424" sideWeight="0.49721116" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5043712" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13651648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2619,7 +2430,6 @@
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="165" y="180" width="1101" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2643,43 +2453,43 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>301</line>
+          <line>302</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>302</line>
+          <line>303</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>306</line>
+          <line>307</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>305</line>
+          <line>306</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>303</line>
+          <line>304</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>311</line>
+          <line>312</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>304</line>
+          <line>305</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -2708,10 +2518,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -2749,10 +2559,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -2790,10 +2600,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -2831,10 +2641,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -2872,10 +2682,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -2913,10 +2723,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -2941,51 +2751,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
-            <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1285#1293#0" expanded="true" />
-            <element signature="e#1434#1442#0" expanded="true" />
-            <element signature="e#1681#3490#0" expanded="true" />
-            <element signature="e#3489#3490#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding>
-            <element signature="method#showSnackbar#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#showSnackbarWithAction#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#DisplayLog#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#set_rules#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#numberInBetween#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -3023,10 +2792,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -3064,10 +2833,51 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
+            <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3490#0" expanded="true" />
+            <element signature="e#3489#3490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="method#showSnackbar#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#showSnackbarWithAction#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#DisplayLog#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#set_rules#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#numberInBetween#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -3116,10 +2926,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -3175,10 +2985,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -3234,10 +3044,10 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
         </state>
@@ -3253,13 +3063,6 @@
             <element signature="e#1681#3490#0" expanded="true" />
             <element signature="e#3489#3490#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -3388,8 +3191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="90" column="33" lean-forward="false" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="33" />
+        <state relative-caret-position="144">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -3399,8 +3202,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="70" column="113" lean-forward="false" selection-start-line="70" selection-start-column="113" selection-end-line="70" selection-end-column="113" />
+        <state relative-caret-position="123">
+          <caret line="55" column="45" lean-forward="false" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
           <folding>
             <element signature="e#1285#1293#0" expanded="true" />
             <element signature="e#1434#1442#0" expanded="true" />
@@ -3412,8 +3215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="695" column="15" lean-forward="false" selection-start-line="690" selection-start-column="12" selection-end-line="695" selection-end-column="15" />
+        <state relative-caret-position="144">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
           <folding>
             <element signature="method#showSnackbar#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#showSnackbarWithAction#0;class#FormValidationUtils#0" expanded="false" />
@@ -3429,12 +3232,20 @@
             <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#27367#27561#0" expanded="true" />
-            <element signature="e#27560#27561#0" expanded="true" />
-            <element signature="e#27728#27919#0" expanded="true" />
-            <element signature="e#27918#27919#0" expanded="true" />
+            <element signature="e#27404#27598#0" expanded="true" />
+            <element signature="e#27597#27598#0" expanded="true" />
+            <element signature="e#27765#27956#0" expanded="true" />
+            <element signature="e#27955#27956#0" expanded="true" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="11" selection-end-column="82" />
+          <folding />
         </state>
       </provider>
     </entry>
