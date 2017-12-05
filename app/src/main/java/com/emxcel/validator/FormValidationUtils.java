@@ -8,7 +8,10 @@ import android.support.design.widget.Snackbar;
 import android.text.Html;
 import android.util.Log;
 import android.view.View;
+import android.widget.CheckBox;
 import android.widget.EditText;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -296,7 +299,19 @@ public class FormValidationUtils {
         sFieldValue = (String) hmKeys.get("fieldValue");
         String[] serrors = (String[]) hmKeys.get("errors");
 
-        if (sFieldValue == null || sFieldValue.equals("")) {
+        if (viewField != null
+                && ((viewField instanceof RadioGroup && ((RadioGroup) viewField).getCheckedRadioButtonId() == -1)
+                || (viewField instanceof RadioButton && !((RadioButton) viewField).isChecked())
+                || (viewField instanceof CheckBox && !((CheckBox) viewField).isChecked()))
+                ) {
+            sErrorMessage = (serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Please select at least one " + (String) hmKeys.get("label") : "Please select at least one value";
+
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
+            hmErrorKeys.put("label", (String) hmKeys.get("label"));
+            hmErrorKeys.put("errorsStatus", true);
+            hmErrorKeys.put("error", sErrorMessage);
+            this.arrErrorList.add(hmErrorKeys);
+        }else if (sFieldValue == null || sFieldValue.equals("")) {
             sErrorMessage = (serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Empty" : "Your value is Empty";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
@@ -306,7 +321,7 @@ public class FormValidationUtils {
             this.arrErrorList.add(hmErrorKeys);
         }
 
-        return false;
+            return false;
     }
 
     private boolean emailCheck(View viewField, int iErrorIndex) {
@@ -617,23 +632,37 @@ public class FormValidationUtils {
     }
 
     private String getFieldValue(View viewField) {
-        EditText edtField = null;
-        Spinner spinnerField = null;
+
         String fieldValue = "";
 
 
         if (viewField instanceof EditText) {
-            edtField = (EditText) viewField;
+            EditText edtField = (EditText) viewField;
             fieldValue = edtField.getText().toString();
         }
         if (viewField instanceof Spinner) {
-            spinnerField = (Spinner) viewField;
+            Spinner spinnerField = (Spinner) viewField;
             fieldValue = spinnerField.getSelectedItem().toString();
+        }
+        if (viewField instanceof RadioGroup) {
+            RadioGroup radioGroupField = (RadioGroup) viewField;
+            RadioButton radioButtonField = (RadioButton) viewField.findViewById(radioGroupField.getCheckedRadioButtonId());
+            if (radioButtonField != null) {
+                fieldValue = radioButtonField.getText().toString();
+            }
+        }
+        if (viewField instanceof RadioButton) {
+            RadioButton radioButtonField = (RadioButton) viewField;
+            fieldValue = radioButtonField.getText().toString();
+        }
+        if (viewField instanceof CheckBox) {
+            CheckBox checkButtonField = (CheckBox) viewField;
+            fieldValue = checkButtonField.getText().toString();
         }
         return fieldValue;
     }
 
-    private void setViewError(View viewField, String errorMsg) {
+    private void setViewError(final View viewField, String errorMsg) {
 
         if (viewField instanceof EditText) {
             ((EditText) viewField).setError(errorMsg);
@@ -644,6 +673,27 @@ public class FormValidationUtils {
             } catch (Exception e) {
                 showToast(_c, errorMsg);
             }
+        }
+        if (viewField instanceof RadioGroup) {
+            showToast(_c, errorMsg);
+        }
+        if (viewField instanceof RadioButton) {
+            ((RadioButton) viewField).setError(errorMsg);
+            ((RadioButton) viewField).setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    ((RadioButton) viewField).setError(null);
+                }
+            });
+        }
+        if (viewField instanceof CheckBox) {
+            ((CheckBox) viewField).setError(errorMsg);
+            ((CheckBox) viewField).setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    ((CheckBox) viewField).setError(null);
+                }
+            });
         }
     }
 
