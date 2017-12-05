@@ -1,5 +1,7 @@
 # Validator
 
+<h3>How we use this</h3>
+
 <pre>
  FormValidationUtils fvu = new FormValidationUtils(MainActivity.this);
  fvu.set_rules(edtName, "Name", "required|max_length[12]", new String[]{"your field is required"}, "toast");
