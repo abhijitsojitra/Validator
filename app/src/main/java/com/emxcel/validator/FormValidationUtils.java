@@ -313,7 +313,7 @@ public class FormValidationUtils {
             hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
         }else if (sFieldValue == null || sFieldValue.equals("")) {
-            sErrorMessage = (serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Empty" : "Your value is Empty";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Empty" : "Your value is Empty";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));

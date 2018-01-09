@@ -4,7 +4,26 @@
             "outputFile": "/home/emxcel/Abhijit/AndroidProjects/Validator/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/emxcel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0de9cdbccb3a206f74d123235375d8a/res/values-v16/values-v16.xml",
+                    "source": "/home/emxcel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a8fa19c44546a81546345a9c350c5575/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/emxcel/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c0d76b0a6a0cb52d50ba4fed745ab734/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

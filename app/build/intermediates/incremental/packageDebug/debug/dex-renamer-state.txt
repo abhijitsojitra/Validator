@@ -1,0 +1,4 @@
+#Tue Jan 09 16:40:20 IST 2018
+base.0=/home/emxcel/Abhijit/AndroidProjects/Validator/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/emxcel/Abhijit/AndroidProjects/Validator/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
