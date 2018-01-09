@@ -113,7 +113,7 @@ public class FormValidationUtils {
      *
      * @param viewField         - object of View
      * @param slabe             - EditText labe
-     * @param sRule             - validation rule like {required,emailCheck,validName,validText,validPersonName,validSignNumber,min_length[10],max_length[10],between_length[5,10],mobileNumber}
+     * @param sRule             - validation rule like {required,emailCheck,validName,validText,validPersonName,validSignNumber,min_length[10],max_length[10],between_length[5,10],mobileNumber,securePassword,validVehicleNumber}
      * @param arrError          - array of error message
      * @param sErrorDisplayType - error message Display Type {toast,seterror,alert}
      *                          don't want icon
@@ -216,6 +216,9 @@ public class FormValidationUtils {
                         }
                         if (methodName.trim().equals("securePassword")) {
                             securePassword(viewtyp, i);
+                        }
+                        if (methodName.trim().equals("validVehicleNumber")) {
+                            validVehicleNumber(viewtyp, i);
                         }
 
 
@@ -350,7 +353,7 @@ public class FormValidationUtils {
         return false;
     }
 
-    // validation for proper title between a-z and 0-9
+    /** validation for proper title between a-z and 0-9 **/
     public boolean validName(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -381,7 +384,7 @@ public class FormValidationUtils {
 
     }
 
-    // validation for proper title between a-z , 0-9, ., -,:,,
+    /** validation for proper title between a-z , 0-9, ., -,:,, **/
     public boolean validText(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -412,7 +415,7 @@ public class FormValidationUtils {
 
     }
 
-    // validation for proper name between a-z
+    /** validation for proper name between a-z **/
     public boolean validPersonName(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -443,7 +446,7 @@ public class FormValidationUtils {
 
     }
 
-    // validation for proper number between min-value and max-value
+    /** validation for proper number between min-value and max-value **/
     public boolean validSignNumber(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -474,7 +477,7 @@ public class FormValidationUtils {
 
     }
 
-    // validation for proper number between min-value and max-value
+    /** validation for proper number between min-value and max-value **/
     public boolean numberInBetween(View viewField, int iErrorIndex, int MinLen, int MaxLen) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -524,7 +527,7 @@ public class FormValidationUtils {
 
     }
 
-    // validation for proper number between min-value and max-value
+    /** validation for proper number between min-value and max-value **/
     public boolean mobileNumber(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -566,7 +569,7 @@ public class FormValidationUtils {
 
     }
 
-    // validation for proper number between min-value and max-value
+    /** validation for proper password with special permission **/
     public boolean securePassword(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -598,6 +601,36 @@ public class FormValidationUtils {
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", "Please Enter Password Including 1 Uppercase and 1 Special character and 1 Number must be there, Like : \"'Example@123'\"");
+            this.arrErrorList.add(hmErrorKeys);
+
+            return false;
+        }
+
+        return true;
+
+    }
+
+    /** validation for proper VehicleNumber between ^[A-Z]{2}[ -][0-9]{1,2}(?: [A-Z])?(?: [A-Z]*)? [0-9]{4}$ **/
+    public boolean validVehicleNumber(View viewField, int iErrorIndex) {
+
+        String sField, sFieldValue, sErrorMessage;
+        sField = String.valueOf(viewField.getId());
+
+        DisplayLog("run validVehicleNumber ", "sField :: " + sField);
+        HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
+
+        sFieldValue = (String) hmKeys.get("fieldValue");
+        String[] serrors = (String[]) hmKeys.get("errors");
+
+        if (required(viewField, iErrorIndex)) {
+            return true;
+        } else if (!sFieldValue.matches("^[A-Z]{2}[ -][0-9]{1,2}(?: [A-Z])?(?: [A-Z]*)? [0-9]{4}$")) {
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
+            hmErrorKeys.put("label", (String) hmKeys.get("label"));
+            hmErrorKeys.put("errorsStatus", true);
+            hmErrorKeys.put("error", "Please Enter Valid Vehicle Number, Like : \"'GJ 01 C AA 1111\n'\"");
             this.arrErrorList.add(hmErrorKeys);
 
             return false;
