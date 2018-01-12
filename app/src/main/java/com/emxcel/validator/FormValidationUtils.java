@@ -113,7 +113,7 @@ public class FormValidationUtils {
      *
      * @param viewField         - object of View
      * @param slabe             - EditText labe
-     * @param sRule             - validation rule like {required,emailCheck,validName,validText,validPersonName,validSignNumber,min_length[10],max_length[10],between_length[5,10],mobileNumber,securePassword,validVehicleNumber}
+     * @param sRule             - validation rule like {required,emailCheck,validName,validText,validPersonName,validSignNumber,min_length[10],max_length[10],between_length[5,10],mobileNumber,securePassword,comparePassword[data],validVehicleNumber}
      * @param arrError          - array of error message
      * @param sErrorDisplayType - error message Display Type {toast,seterror,alert}
      *                          don't want icon
@@ -236,6 +236,11 @@ public class FormValidationUtils {
                                 numberInBetween(viewtyp, i, Integer.parseInt(betnum[0]), Integer.parseInt(betnum[1]));
                             }
                         }
+                        if (methodName.trim().equals("comparePassword")) {
+
+                            comparePassword(viewtyp, i, numb[1]);
+
+                        }
                         /*try {
 
                             //no paramater
@@ -315,7 +320,7 @@ public class FormValidationUtils {
             hmErrorKeys.put("errorsStatus", true);
             hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
-        }else if (sFieldValue == null || sFieldValue.equals("")) {
+        } else if (sFieldValue == null || sFieldValue.equals("")) {
             sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Empty" : "Your value is Empty";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
@@ -325,7 +330,7 @@ public class FormValidationUtils {
             this.arrErrorList.add(hmErrorKeys);
         }
 
-            return false;
+        return false;
     }
 
     private boolean emailCheck(View viewField, int iErrorIndex) {
@@ -353,7 +358,9 @@ public class FormValidationUtils {
         return false;
     }
 
-    /** validation for proper title between a-z and 0-9 **/
+    /**
+     * validation for proper title between a-z and 0-9
+     **/
     public boolean validName(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -384,7 +391,9 @@ public class FormValidationUtils {
 
     }
 
-    /** validation for proper title between a-z , 0-9, ., -,:,, **/
+    /**
+     * validation for proper title between a-z , 0-9, ., -,:,,
+     **/
     public boolean validText(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -415,7 +424,9 @@ public class FormValidationUtils {
 
     }
 
-    /** validation for proper name between a-z **/
+    /**
+     * validation for proper name between a-z
+     **/
     public boolean validPersonName(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -435,7 +446,7 @@ public class FormValidationUtils {
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
-            hmErrorKeys.put("error", "Accept Alphabets Only.");
+            hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
 
             return false;
@@ -446,7 +457,9 @@ public class FormValidationUtils {
 
     }
 
-    /** validation for proper number between min-value and max-value **/
+    /**
+     * validation for proper number between min-value and max-value
+     **/
     public boolean validSignNumber(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -477,7 +490,9 @@ public class FormValidationUtils {
 
     }
 
-    /** validation for proper number between min-value and max-value **/
+    /**
+     * validation for proper number between min-value and max-value
+     **/
     public boolean numberInBetween(View viewField, int iErrorIndex, int MinLen, int MaxLen) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -527,7 +542,9 @@ public class FormValidationUtils {
 
     }
 
-    /** validation for proper number between min-value and max-value **/
+    /**
+     * validation for proper number between min-value and max-value
+     **/
     public boolean mobileNumber(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -569,7 +586,9 @@ public class FormValidationUtils {
 
     }
 
-    /** validation for proper password with special permission **/
+    /**
+     * validation for proper password with special permission
+     **/
     public boolean securePassword(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -610,7 +629,41 @@ public class FormValidationUtils {
 
     }
 
-    /** validation for proper VehicleNumber between ^[A-Z]{2}[ -][0-9]{1,2}(?: [A-Z])?(?: [A-Z]*)? [0-9]{4}$ **/
+    /**
+     * validation for proper password comparing with text
+     **/
+    public boolean comparePassword(View viewField, int iErrorIndex, String sCompareString) {
+
+        String sField, sFieldValue, sErrorMessage;
+        sField = String.valueOf(viewField.getId());
+
+        DisplayLog("run validSignNumber ", "sField :: " + sField);
+        HashMap<String, Object> hmKeys = this.arrFieldData.get(sField);
+
+        sFieldValue = (String) hmKeys.get("fieldValue");
+        String[] serrors = (String[]) hmKeys.get("errors");
+
+        if (required(viewField, iErrorIndex)) {
+            return true;
+        } else if (!sFieldValue.equals(sCompareString)) {
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is not match" : "Your data is not match.";
+
+            HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
+            hmErrorKeys.put("label", (String) hmKeys.get("label"));
+            hmErrorKeys.put("errorsStatus", true);
+            hmErrorKeys.put("error", sErrorMessage);
+            this.arrErrorList.add(hmErrorKeys);
+
+            return false;
+        }
+
+        return true;
+
+    }
+
+    /**
+     * validation for proper VehicleNumber between ^[A-Z]{2}[ -][0-9]{1,2}(?: [A-Z])?(?: [A-Z]*)? [0-9]{4}$
+     **/
     public boolean validVehicleNumber(View viewField, int iErrorIndex) {
 
         String sField, sFieldValue, sErrorMessage;
@@ -677,6 +730,9 @@ public class FormValidationUtils {
         if (viewField instanceof Spinner) {
             Spinner spinnerField = (Spinner) viewField;
             fieldValue = spinnerField.getSelectedItem().toString();
+            if (spinnerField.getSelectedItemPosition() <= 0) {
+                fieldValue = "";
+            }
         }
         if (viewField instanceof RadioGroup) {
             RadioGroup radioGroupField = (RadioGroup) viewField;
