@@ -224,22 +224,24 @@ public class FormValidationUtils {
 
                         String[] numb = methodName.replace("]", "").split("\\[");
                         methodName = numb[0];
-                        if (methodName.trim().equals("min_length") || methodName.trim().equals("max_length") || methodName.trim().equals("between_length")) {
-                            if (methodName.trim().equals("min_length")) {
-                                numberInBetween(viewtyp, i, Integer.parseInt(numb[1]), 0);
+                        if (numb != null && numb.length > 1) {
+                            if (methodName.trim().equals("min_length") || methodName.trim().equals("max_length") || methodName.trim().equals("between_length")) {
+                                if (methodName.trim().equals("min_length")) {
+                                    numberInBetween(viewtyp, i, Integer.parseInt(numb[1]), 0);
+                                }
+                                if (methodName.trim().equals("max_length")) {
+                                    numberInBetween(viewtyp, i, 0, Integer.parseInt(numb[1]));
+                                }
+                                if (methodName.trim().equals("between_length")) {
+                                    String[] betnum = numb[1].split("\\,");
+                                    numberInBetween(viewtyp, i, Integer.parseInt(betnum[0]), Integer.parseInt(betnum[1]));
+                                }
                             }
-                            if (methodName.trim().equals("max_length")) {
-                                numberInBetween(viewtyp, i, 0, Integer.parseInt(numb[1]));
-                            }
-                            if (methodName.trim().equals("between_length")) {
-                                String[] betnum = numb[1].split("\\,");
-                                numberInBetween(viewtyp, i, Integer.parseInt(betnum[0]), Integer.parseInt(betnum[1]));
-                            }
-                        }
-                        if (methodName.trim().equals("comparePassword")) {
+                            if (methodName.trim().equals("comparePassword")) {
 
-                            comparePassword(viewtyp, i, numb[1]);
+                                comparePassword(viewtyp, i, numb[1]);
 
+                            }
                         }
                         /*try {
 

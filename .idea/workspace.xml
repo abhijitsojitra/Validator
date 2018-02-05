@@ -11,12 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59f13443-c059-4285-91f8-81024f7b3216" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-01-10-12-53-42-946.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-01-10-13-02-09-109.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-01-10-13-05-58-883.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-01-10-12-53-42-946.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-01-10-13-02-09-109.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-01-10-13-05-58-883.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
@@ -32,7 +26,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/MainActivity$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils$2.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils$3.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils$3.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils$4.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils$4.dex" />
@@ -45,19 +38,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils$AlertDialogManager.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils$AlertDialogManager.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/FormValidationUtils.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/MainActivity$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/86/com/emxcel/validator/MainActivity$1.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,11 +80,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FormValidationUtils.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FormValidationUtils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4590">
-              <caret line="634" column="19" lean-forward="false" selection-start-line="634" selection-start-column="19" selection-end-line="634" selection-end-column="19" />
+            <state relative-caret-position="104">
+              <caret line="226" column="59" lean-forward="false" selection-start-line="226" selection-start-column="59" selection-end-line="226" selection-end-column="59" />
               <folding>
                 <element signature="method#showSnackbar#0;class#FormValidationUtils#0" expanded="false" />
                 <element signature="method#showSnackbarWithAction#0;class#FormValidationUtils#0" expanded="false" />
@@ -129,12 +120,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="66" column="101" lean-forward="false" selection-start-line="66" selection-start-column="80" selection-end-line="66" selection-end-column="101" />
-              <folding />
+            <state relative-caret-position="104">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding>
+                <element signature="e#1285#1293#0" expanded="true" />
+                <element signature="e#1434#1442#0" expanded="true" />
+                <element signature="e#1681#3531#0" expanded="true" />
+                <element signature="e#3530#3531#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,14 +147,14 @@
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
@@ -1993,63 +1989,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Validator" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Validator" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Validator" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Validator" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="validator" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2157,6 +2096,63 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Validator" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Validator" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Validator" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Validator" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -2168,7 +2164,7 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="sync.plugin.last.upgrade.timestamp" value="1515732674285" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1517813132104" />
     <property name="android.profiler.active" value="true" />
     <property name="DEBUGGABLE_DEVICE" value="gionee-p5_mini-LJ9SSCK78SWKMJON" />
     <property name="DEBUGGABLE_PROCESS" value="com.emxcel.validator" />
@@ -2263,7 +2259,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515732700456" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1517814329929" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2311,7 +2307,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515732700457" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1517814329929" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2494,7 +2490,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1515732700458" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1517814329933" />
       </method>
     </configuration>
     <list size="1">
@@ -2572,7 +2568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515498331811</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update for compare password on 12-Jan-2018">
+      <created>1515732782774</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1515732782774</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2587,8 +2590,9 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.49562877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2597,7 +2601,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38108483" sideWeight="0.49630126" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.49764627" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44784424" sideWeight="0.49721116" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44784424" sideWeight="0.49721116" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5043712" order="7" side_tool="true" content_ui="tabs" />
@@ -2616,7 +2620,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.49562877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="165" y="180" width="1101" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952252" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2640,50 +2643,51 @@
     <MESSAGE value="Update on 5-Dec-2017" />
     <MESSAGE value="Update on 9-Jan-2018" />
     <MESSAGE value="Update for Vehicle Number Format on 9-Jan-2018" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update for Vehicle Number Format on 9-Jan-2018" />
+    <MESSAGE value="Update for compare password on 12-Jan-2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update for compare password on 12-Jan-2018" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>310</line>
+          <line>312</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>311</line>
+          <line>313</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>315</line>
+          <line>317</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>314</line>
+          <line>316</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>312</line>
+          <line>314</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>320</line>
+          <line>322</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>313</line>
+          <line>315</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -2725,7 +2729,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          <folding />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2761,7 +2770,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2797,70 +2811,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding>
-            <element signature="method#showSnackbar#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#showSnackbarWithAction#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#DisplayLog#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#set_rules#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#required#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#numberInBetween#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#setViewError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#setDisplayError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#showSnackbar#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#showSnackbarWithAction#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#DisplayLog#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#set_rules#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#required#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#numberInBetween#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#setViewError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#setDisplayError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2897,7 +2852,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#showSnackbar#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#showSnackbarWithAction#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#DisplayLog#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#set_rules#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#required#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#numberInBetween#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#setViewError#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#setDisplayError#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2933,7 +2921,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2969,7 +2962,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3005,19 +3003,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="method#showSnackbar#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#showSnackbarWithAction#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#DisplayLog#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#set_rules#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#required#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#numberInBetween#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#setViewError#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="method#setDisplayError#0;class#FormValidationUtils#0" expanded="false" />
+            <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
@@ -3059,19 +3103,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="39" column="67" lean-forward="false" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="67" />
-          <folding />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="34" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
@@ -3113,19 +3162,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="34" />
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
@@ -3160,7 +3214,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3308,20 +3367,33 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <element signature="e#1285#1293#0" expanded="true" />
+            <element signature="e#1434#1442#0" expanded="true" />
+            <element signature="e#1681#3531#0" expanded="true" />
+            <element signature="e#3530#3531#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4590">
-          <caret line="634" column="19" lean-forward="false" selection-start-line="634" selection-start-column="19" selection-end-line="634" selection-end-column="19" />
+        <state relative-caret-position="104">
+          <caret line="226" column="59" lean-forward="false" selection-start-line="226" selection-start-column="59" selection-end-line="226" selection-end-column="59" />
           <folding>
             <element signature="method#showSnackbar#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="method#showSnackbarWithAction#0;class#FormValidationUtils#0" expanded="false" />
@@ -3343,14 +3415,6 @@
             <element signature="method#setDisplayError#0;class#FormValidationUtils#0" expanded="false" />
             <element signature="class#AlertDialogManager#0;class#FormValidationUtils#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="66" column="101" lean-forward="false" selection-start-line="66" selection-start-column="80" selection-end-line="66" selection-end-column="101" />
-          <folding />
         </state>
       </provider>
     </entry>
