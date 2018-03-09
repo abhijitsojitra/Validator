@@ -60,10 +60,8 @@ public class MainActivity extends AppCompatActivity {
 
 
                 FormValidationUtils fvu = new FormValidationUtils(MainActivity.this);
-//                fvu.set_rules(edtName, "Name", "required|max_length[12]", new String[]{"your field is required"}, "toast");
-//                fvu.set_rules(edtName, "Name", "required|emailCheck", new String[]{"your field is required"}, "toast");
+                fvu.set_rules(edtName, "", "required|validName", new String[]{"your field is required",""}, "seterror");
                 fvu.set_rules(spinner, "spinner", "required", new String[]{"your field 1234156 is required"}, "seterror");
-                fvu.set_rules(edtName, "Name", "required|validVehicleNumber", new String[]{"your field 1234156 is required"}, "seterror");
                 fvu.set_rules(edtNumber, "edtNumber", "required|comparePassword["+edtName.getText()+"]", new String[]{"your field  sdfs  is required"}, "seterror");
 
                 fvu.set_rules(radioGroup, "radioGroup", "required", new String[]{"Please select at least one Radio Group"}, "seterror");

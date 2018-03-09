@@ -142,7 +142,7 @@ public class FormValidationUtils {
         }
 
         if (slabe == null || slabe.equals("")) {
-            if (viewField instanceof EditText) {
+            if (viewField instanceof EditText && edtField.getHint()!=null && !edtField.getHint().equals("")) {
                 slabe = edtField.getHint().toString();
             }
         }
@@ -348,7 +348,7 @@ public class FormValidationUtils {
 
 //        if (sFieldValue == null || sFieldValue.equals("")) {
         if (!sFieldValue.trim().equalsIgnoreCase("") && !android.util.Patterns.EMAIL_ADDRESS.matcher(sFieldValue).matches()) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Invalid Email Address";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Invalid Email Address";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
@@ -377,12 +377,12 @@ public class FormValidationUtils {
         if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("^[a-zA-Z0-9 ]*$")) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
-            hmErrorKeys.put("error", "Accept Alphabets And Numbers Only.");
+            hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
 
             return false;
@@ -410,12 +410,12 @@ public class FormValidationUtils {
         if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("^[A-Za-z0-9\\\\s,\\\\.\\\\-\\\\:]*$")) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Some special character not allowed.";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
-            hmErrorKeys.put("error", "Some special character not allowed.");
+            hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
 
             return false;
@@ -443,7 +443,7 @@ public class FormValidationUtils {
         if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("[a-zA-Z ]+")) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
@@ -476,12 +476,12 @@ public class FormValidationUtils {
         if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("^[0-9]*$")) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Number Only.";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
-            hmErrorKeys.put("error", "Accept Number Only.");
+            hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
 
             return false;
@@ -561,23 +561,23 @@ public class FormValidationUtils {
         if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("^[0-9]*$")) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Number Only.";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
-            hmErrorKeys.put("error", "Accept Number Only.");
+            hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
 
             return false;
 
         } else if (!sFieldValue.matches("\\d{10}")) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Please enter proper number.";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
-            hmErrorKeys.put("error", "Please enter proper number.");
+            hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
 
             return false;
@@ -605,23 +605,23 @@ public class FormValidationUtils {
         if (required(viewField, iErrorIndex)) {
             return true;
         } else if (sFieldValue.length() < 8) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " must be at least 8 characters long" : "Your password must be at least 8 characters long";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
-            hmErrorKeys.put("error", "Your password must be at least 8 characters long");
+            hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
 
             return false;
 
         } else if (!sFieldValue.matches("^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%^&+=])(?=\\S+$).{4,}$")) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Not Included at least 1 Uppercase and 1 Special character and 1 Number, ex. : \"'Example@123'\"" : "Please Enter Password Including 1 Uppercase and 1 Special character and 1 Number must be there, Like : \"'Example@123'\"";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
-            hmErrorKeys.put("error", "Please Enter Password Including 1 Uppercase and 1 Special character and 1 Number must be there, Like : \"'Example@123'\"");
+            hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
 
             return false;
@@ -648,7 +648,7 @@ public class FormValidationUtils {
         if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.equals(sCompareString)) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is not match" : "Your data is not match.";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is not match" : "Your data is not match.";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
@@ -680,12 +680,12 @@ public class FormValidationUtils {
         if (required(viewField, iErrorIndex)) {
             return true;
         } else if (!sFieldValue.matches("^[A-Z]{2}[ -][0-9]{1,2}(?: [A-Z])?(?: [A-Z]*)? [0-9]{4}$")) {
-            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && serrors[iErrorIndex].equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Accept Alphabets And Numbers Only.";
+            sErrorMessage = (serrors.length > iErrorIndex && serrors[iErrorIndex] != null && !serrors[iErrorIndex].equals("")) ? serrors[iErrorIndex] : (hmKeys.get("label") != null && !hmKeys.get("label").toString().equals("")) ? "Your " + (String) hmKeys.get("label") + " is Invalid" : "Please Enter Valid Vehicle Number, Like : \"'GJ 01 C AA 1111\n'\"";
 
             HashMap<String, Object> hmErrorKeys = detDefaultError(viewField);
             hmErrorKeys.put("label", (String) hmKeys.get("label"));
             hmErrorKeys.put("errorsStatus", true);
-            hmErrorKeys.put("error", "Please Enter Valid Vehicle Number, Like : \"'GJ 01 C AA 1111\n'\"");
+            hmErrorKeys.put("error", sErrorMessage);
             this.arrErrorList.add(hmErrorKeys);
 
             return false;
