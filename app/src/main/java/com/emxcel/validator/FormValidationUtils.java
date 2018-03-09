@@ -756,6 +756,8 @@ public class FormValidationUtils {
 
     private void setViewError(final View viewField, String errorMsg) {
 
+        errorMsg = errorMsg.trim();
+
         if (viewField instanceof EditText) {
             ((EditText) viewField).setError(errorMsg);
         }
@@ -807,7 +809,7 @@ public class FormValidationUtils {
                 DisplayLog("run setDisplayError ", "sErrorDisplayType :: " + sErrorDisplayType);
                 if (sErrorDisplayType != null) {
                     if (sErrorDisplayType.equals("toast")) {
-                        showToast(_c, hmKeys.get("error").toString());
+                        showToast(_c, hmKeys.get("error").toString().trim());
                     } else if (sErrorDisplayType.equals("seterror")) {
 //                        showToast(_c, sErrorMessage);
                         sErrorMessage = ((sLastField.equals(hmKeys.get("error").toString())) ? "\n" : "") + hmKeys.get("error").toString();
@@ -818,7 +820,7 @@ public class FormValidationUtils {
                         sErrorMessage += hmKeys.get("error").toString() + ",\n";
 //                        sErrorMessage += sErrorMessage + "</br>";
                     }
-                    sLastField = hmKeys.get("error").toString();
+                    sLastField = hmKeys.get("error").toString().trim();
                 }
             }
             if (sErrorDisplayType != null && sErrorDisplayType.equals("alert")) {

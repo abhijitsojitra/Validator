@@ -60,13 +60,15 @@ public class MainActivity extends AppCompatActivity {
 
 
                 FormValidationUtils fvu = new FormValidationUtils(MainActivity.this);
-                fvu.set_rules(edtName, "", "required|validName", new String[]{"your field is required",""}, "seterror");
-                fvu.set_rules(spinner, "spinner", "required", new String[]{"your field 1234156 is required"}, "seterror");
-                fvu.set_rules(edtNumber, "edtNumber", "required|comparePassword["+edtName.getText()+"]", new String[]{"your field  sdfs  is required"}, "seterror");
+//                fvu.set_rules(edtName, "", "required|validPersonName", new String[]{"your field is required","Enter first name and fgh"}, "seterror");
 
-                fvu.set_rules(radioGroup, "radioGroup", "required", new String[]{"Please select at least one Radio Group"}, "seterror");
-                fvu.set_rules(radioButton4, "radioButton4", "required", new String[]{"Please select at least one Radio Button"}, "seterror");
-                fvu.set_rules(CheckBox, "CheckBox", "required", new String[]{"Please select at least one CheckBox"}, "seterror");
+                fvu.set_rules(edtName, "Name", "min_length[12]|max_length[12]|required", new String[]{"","","your field is Adhar number"}, "seterror");
+//                fvu.set_rules(spinner, "spinner", "required", new String[]{"your field 1234156 is required"}, "seterror");
+//                fvu.set_rules(edtNumber, "edtNumber", "required|comparePassword["+edtName.getText()+"]", new String[]{"your field  sdfs  is required"}, "seterror");
+//
+//                fvu.set_rules(radioGroup, "radioGroup", "required", new String[]{"Please select at least one Radio Group"}, "seterror");
+//                fvu.set_rules(radioButton4, "radioButton4", "required", new String[]{"Please select at least one Radio Button"}, "seterror");
+//                fvu.set_rules(CheckBox, "CheckBox", "required", new String[]{"Please select at least one CheckBox"}, "seterror");
 
 
                 if (fvu.run()) {
