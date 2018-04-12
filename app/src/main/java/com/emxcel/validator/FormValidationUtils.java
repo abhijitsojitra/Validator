@@ -244,27 +244,20 @@ public class FormValidationUtils {
                             }
                         }
                         /*try {
-
                             //no paramater
                             Class noparams[] = {};
-
                             //String parameter
                             Class[] paramString = new Class[1];
                             paramString[0] = String.class;
-
                             //int parameter
                             Class[] paramInt = new Class[1];
                             paramInt[0] = Integer.TYPE;
-
                             //int parameter
                             Class[] paramEdt = new Class[1];
                             paramInt[0] = EditText.class;
-
 //                            Class cls = this.getClass();
                             Class cls = Class.forName("com.emxcel.validator.FormValidationUtils");
                             Object obj = cls.newInstance();
-
-
                             DisplayLog("run key,value ", viewtyp.getHint() + "");
                             Method method = cls.getDeclaredMethod(rules[i], new Class[]{EditText.class, Integer.TYPE});
                             if ((boolean) method.invoke(obj, new Object[]{viewtyp, i})) {
@@ -725,6 +718,10 @@ public class FormValidationUtils {
         String fieldValue = "";
 
 
+        if (viewField instanceof TextView) {
+            TextView tvField = (TextView) viewField;
+            fieldValue = tvField.getText().toString();
+        }
         if (viewField instanceof EditText) {
             EditText edtField = (EditText) viewField;
             fieldValue = edtField.getText().toString();

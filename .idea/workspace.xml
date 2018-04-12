@@ -11,79 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59f13443-c059-4285-91f8-81024f7b3216" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-38-24-978.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-39-36-411.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-43-27-083.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-43-53-639.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-47-22-233.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-49-25-892.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-52-19-797.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-58-11-561.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-58-36-838.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-59-02-850.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-59-54-463.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-19-00-08-567.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-19-00-58-823.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-19-04-19-783.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-19-05-10-680.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-38-24-978.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-39-36-411.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-43-27-083.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-43-53-639.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-47-22-233.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-49-25-892.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-52-19-797.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-58-11-561.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-58-36-838.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-59-02-850.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-18-59-54-463.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-19-00-08-567.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-19-00-58-823.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-19-04-19-783.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-09-19-05-10-680.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils$AlertDialogManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/FormValidationUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/emxcel/validator/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$2.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$3.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$3.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$4.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$4.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$1.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$2.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$3.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$4.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$5.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$6.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager$7.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils$AlertDialogManager.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/FormValidationUtils.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/MainActivity$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/MainActivity$1.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/MainActivity.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/18/com/emxcel/validator/MainActivity.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -118,41 +49,30 @@
       <file leaf-file-name="FormValidationUtils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="323" column="47" lean-forward="false" selection-start-line="323" selection-start-column="47" selection-end-line="323" selection-end-column="47" />
+            <state relative-caret-position="121">
+              <caret line="715" column="21" lean-forward="false" selection-start-line="715" selection-start-column="21" selection-end-line="715" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2877#3070#0" expanded="true" />
                 <element signature="e#3069#3070#0" expanded="true" />
-                <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-                <element signature="e#31957#32151#0" expanded="true" />
-                <element signature="e#32150#32151#0" expanded="true" />
-                <element signature="e#32318#32509#0" expanded="true" />
-                <element signature="e#32508#32509#0" expanded="true" />
-                <element signature="e#36239#36646#0" expanded="true" />
-                <element signature="e#36645#36646#0" expanded="true" />
-                <element signature="e#37943#38350#0" expanded="true" />
-                <element signature="e#38349#38350#0" expanded="true" />
-                <element signature="e#39687#40094#0" expanded="true" />
-                <element signature="e#40093#40094#0" expanded="true" />
-                <element signature="e#40244#40651#0" expanded="true" />
-                <element signature="e#40650#40651#0" expanded="true" />
-                <element signature="e#42063#42470#0" expanded="true" />
-                <element signature="e#42469#42470#0" expanded="true" />
-                <element signature="e#42620#43027#0" expanded="true" />
-                <element signature="e#43026#43027#0" expanded="true" />
-                <element signature="e#43174#43581#0" expanded="true" />
-                <element signature="e#43580#43581#0" expanded="true" />
+                <element signature="e#32113#32307#0" expanded="true" />
+                <element signature="e#32306#32307#0" expanded="true" />
+                <element signature="e#32474#32665#0" expanded="true" />
+                <element signature="e#32664#32665#0" expanded="true" />
+                <element signature="e#36395#36802#0" expanded="true" />
+                <element signature="e#36801#36802#0" expanded="true" />
+                <element signature="e#38099#38506#0" expanded="true" />
+                <element signature="e#38505#38506#0" expanded="true" />
+                <element signature="e#39843#40250#0" expanded="true" />
+                <element signature="e#40249#40250#0" expanded="true" />
+                <element signature="e#40400#40807#0" expanded="true" />
+                <element signature="e#40806#40807#0" expanded="true" />
+                <element signature="e#42219#42626#0" expanded="true" />
+                <element signature="e#42625#42626#0" expanded="true" />
+                <element signature="e#42776#43183#0" expanded="true" />
+                <element signature="e#43182#43183#0" expanded="true" />
+                <element signature="e#43330#43737#0" expanded="true" />
+                <element signature="e#43736#43737#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,9 +81,11 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="918">
               <caret line="64" column="136" lean-forward="false" selection-start-line="64" selection-start-column="136" selection-end-line="64" selection-end-column="136" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,7 +96,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="270">
               <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding />
             </state>
@@ -201,6 +123,7 @@
       <find>hmKeys.get(&quot;error&quot;).toString()</find>
       <find>sLastField</find>
       <find>edtName</find>
+      <find>TextView</find>
     </findStrings>
     <replaceStrings>
       <replace>viewtyp</replace>
@@ -1964,6 +1887,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2020,7 +1944,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -2135,7 +2058,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="20d4a9e0" />
+    <property name="device.picker.selection" value="Nexus_5X_API_24" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -2145,6 +2068,7 @@
     <property name="DEBUGGABLE_PROCESS" value="com.emxcel.validator" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="DEBUGGER_ID" value="Auto" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -2234,7 +2158,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520602643555" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1523516418829" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2282,7 +2206,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520602643555" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1523516418829" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2465,7 +2389,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520602643559" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1523516418830" />
       </method>
     </configuration>
     <list size="1">
@@ -2564,7 +2488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520599210654</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="bug fix on 09-Marh-2018_1">
+      <created>1520602660576</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1520602660576</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2579,15 +2510,13 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.49562877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5043712" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952252" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38108483" sideWeight="0.49630126" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.49764627" order="7" side_tool="false" content_ui="tabs" />
@@ -2597,11 +2526,12 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5043712" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23402825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40194714" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40194714" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2610,9 +2540,10 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.49562877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="165" y="180" width="1101" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952252" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2635,114 +2566,11 @@
     <MESSAGE value="Update for compare password on 12-Jan-2018" />
     <MESSAGE value="bug fix on compare password on 05-Feb-2018" />
     <MESSAGE value="bug fix on 09-Marh-2018" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fix on 09-Marh-2018" />
+    <MESSAGE value="bug fix on 09-Marh-2018_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fix on 09-Marh-2018_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>312</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>313</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>317</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>316</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>314</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>322</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>315</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>325</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>324</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>379</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>381</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>382</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>383</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>384</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>440</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>444</line>
-          <properties />
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java</url>
-          <line>445</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
@@ -2756,35 +2584,24 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2793,7 +2610,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2805,35 +2624,24 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2842,7 +2650,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2854,35 +2664,24 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2891,96 +2690,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2877#3070#0" expanded="true" />
-            <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2877#3070#0" expanded="true" />
-            <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2993,35 +2704,24 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3030,7 +2730,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2877#3070#0" expanded="true" />
+            <element signature="e#3069#3070#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3042,35 +2774,24 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3079,7 +2800,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3091,35 +2814,24 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3128,7 +2840,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3140,35 +2854,24 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3177,7 +2880,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2877#3070#0" expanded="true" />
+            <element signature="e#3069#3070#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3200,35 +2945,24 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3244,7 +2978,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="39" column="67" lean-forward="false" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="67" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3267,35 +3003,24 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3311,7 +3036,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3334,35 +3061,24 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3371,7 +3087,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3518,63 +3236,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
+        <state relative-caret-position="918">
           <caret line="64" column="136" lean-forward="false" selection-start-line="64" selection-start-column="136" selection-end-line="64" selection-end-column="136" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/emxcel/validator/FormValidationUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="323" column="47" lean-forward="false" selection-start-line="323" selection-start-column="47" selection-end-line="323" selection-end-column="47" />
+        <state relative-caret-position="121">
+          <caret line="715" column="21" lean-forward="false" selection-start-line="715" selection-start-column="21" selection-end-line="715" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2877#3070#0" expanded="true" />
             <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="method#emailCheck#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validText#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validPersonName#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validSignNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#mobileNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#securePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#comparePassword#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#validVehicleNumber#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#detDefaultError#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="method#getFieldValue#0;class#FormValidationUtils#0" expanded="false" />
-            <element signature="e#31957#32151#0" expanded="true" />
-            <element signature="e#32150#32151#0" expanded="true" />
-            <element signature="e#32318#32509#0" expanded="true" />
-            <element signature="e#32508#32509#0" expanded="true" />
-            <element signature="e#36239#36646#0" expanded="true" />
-            <element signature="e#36645#36646#0" expanded="true" />
-            <element signature="e#37943#38350#0" expanded="true" />
-            <element signature="e#38349#38350#0" expanded="true" />
-            <element signature="e#39687#40094#0" expanded="true" />
-            <element signature="e#40093#40094#0" expanded="true" />
-            <element signature="e#40244#40651#0" expanded="true" />
-            <element signature="e#40650#40651#0" expanded="true" />
-            <element signature="e#42063#42470#0" expanded="true" />
-            <element signature="e#42469#42470#0" expanded="true" />
-            <element signature="e#42620#43027#0" expanded="true" />
-            <element signature="e#43026#43027#0" expanded="true" />
-            <element signature="e#43174#43581#0" expanded="true" />
-            <element signature="e#43580#43581#0" expanded="true" />
+            <element signature="e#32113#32307#0" expanded="true" />
+            <element signature="e#32306#32307#0" expanded="true" />
+            <element signature="e#32474#32665#0" expanded="true" />
+            <element signature="e#32664#32665#0" expanded="true" />
+            <element signature="e#36395#36802#0" expanded="true" />
+            <element signature="e#36801#36802#0" expanded="true" />
+            <element signature="e#38099#38506#0" expanded="true" />
+            <element signature="e#38505#38506#0" expanded="true" />
+            <element signature="e#39843#40250#0" expanded="true" />
+            <element signature="e#40249#40250#0" expanded="true" />
+            <element signature="e#40400#40807#0" expanded="true" />
+            <element signature="e#40806#40807#0" expanded="true" />
+            <element signature="e#42219#42626#0" expanded="true" />
+            <element signature="e#42625#42626#0" expanded="true" />
+            <element signature="e#42776#43183#0" expanded="true" />
+            <element signature="e#43182#43183#0" expanded="true" />
+            <element signature="e#43330#43737#0" expanded="true" />
+            <element signature="e#43736#43737#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
